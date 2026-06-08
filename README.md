@@ -1,12 +1,19 @@
-# IBM Data Science Professional Certificate Labs & Projects
+# IBM Data Science Professional Certificate – Labs, Projects & Notes
 
-A collection of labs, assignments, notebooks, and projects completed during the IBM Data Science Professional Certificate.
+This repository contains my work from the IBM Data Science Professional Certificate, including labs, assignments, notebooks, and projects completed throughout the program.
 
-📚 12 Courses Completed  
-🛠️ 100+ Hands-on Labs & Assignments  
-🐍 Python | SQL | Pandas | NumPy | Scikit-Learn  
-📊 Data Analysis, Visualization & Machine Learning  
-🎓 Completed alongside studies at Plaksha University and the IIT Madras BS Degree in Data Science and Applications
+Over a period of 4–5 months, I completed all 12 courses while balancing my studies at Plaksha University and the IIT Madras BS Degree in Data Science and Applications. The program provided hands-on experience with the complete data science workflow, from data collection and cleaning to analysis, visualization, machine learning, and project deployment.
+
+## Repository Highlights
+
+- 12 Courses Completed
+- 100+ Hands-on Labs and Assignments
+- End-to-End Applied Data Science Capstone Project
+- Python, SQL, Pandas, NumPy, and Scikit-Learn
+- Data Analysis, Visualization, and Machine Learning
+- Jupyter Notebooks and Real-World Datasets
+
+This repository serves as a record of my learning journey and showcases the practical skills, projects, and workflows developed while building a strong foundation in Data Science, Machine Learning, and AI.
 
 IBM Data Science Professional Certificate Labs & Projects
 
